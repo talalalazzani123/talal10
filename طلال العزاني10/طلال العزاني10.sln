@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "واجب 10 برمجة مرئية", "واجب 10 برمجة مرئية\واجب 10 برمجة مرئية.csproj", "{90F8D9B2-8F31-4871-817D-44BC042DF919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F8D9B2-8F31-4871-817D-44BC042DF919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F8D9B2-8F31-4871-817D-44BC042DF919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F8D9B2-8F31-4871-817D-44BC042DF919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F8D9B2-8F31-4871-817D-44BC042DF919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E5F071-35A4-40AF-B965-C072D57423C9}
+	EndGlobalSection
+EndGlobal
